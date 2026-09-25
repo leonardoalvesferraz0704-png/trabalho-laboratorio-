@@ -1,5 +1,0 @@
-name                        type
-oauth_transactions_expiry   index
-sessions_expiry             index
-oauth_transactions          table
-sessions                    table
