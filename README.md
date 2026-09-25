@@ -1,1 +1,1 @@
-Binding D1 configurado-
+dicione uma linha "Binding D1 configurado em [data
