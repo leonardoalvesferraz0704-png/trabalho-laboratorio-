@@ -1,0 +1,20 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 640px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+#login-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #333;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+}
+
+#logout-form {
+  margin-top: 1.5rem;
+}
