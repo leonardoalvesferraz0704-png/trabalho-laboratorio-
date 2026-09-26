@@ -1,0 +1,2 @@
+https://trabalho-laboratorio.pages.dev
+https://trabalho-laboratorio.pages.dev/oauth/callback/github
