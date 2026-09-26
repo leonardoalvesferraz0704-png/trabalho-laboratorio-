@@ -1,0 +1,1 @@
+https://trabalho-laboratorio.pages.dev/oauth/callback/google
