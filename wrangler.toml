@@ -1,0 +1,13 @@
+name = "trabalho-laboratorio"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "oauth-sessions-leonardo"
+database_id = "180f25c2-1645-42ea-b76a-96906ce3082b"
+
+[vars]
+PUBLIC_BASE_URL = "https://trabalho-laboratorio.pages.dev"
+GITHUB_CLIENT_ID = "Ov23liThEJP2Iqk3Qee9"
+GOOGLE_CLIENT_ID = "224330911887-691md6pe1di8l00geo5eqhtcrjtebcre.apps.googleusercontent.com"
